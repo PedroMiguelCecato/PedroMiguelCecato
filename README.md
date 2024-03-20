@@ -2,7 +2,7 @@
 
 
 
-- 📚 Estudando Ciência de Dados e AI - UFPB - 2/8
+- 📚 Cursando Ciência de Dados e AI - UFPB - 2/8
 - ✏️ Monitor de Introdução a Programação (Python) 2023.2/2024.1 - UFPB
 - 🧠 Estudando e aprimorando Python e C
 - 📩 pedro.cecato@academico.ufpb.br
