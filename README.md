@@ -7,6 +7,7 @@
   &emsp;&emsp;- 🧠 Estudando e aprimorando Python e C
   <br>
   &emsp;&emsp;- 📩 pedro.cecato@academico.ufpb.br
+  
 <\p>
 <br>
 
