@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.instagram.com/pedro.cecato/">@pedro.cecato</a> (instagram)
   <br>
-  <a href="https://www.linkedin.com/in/pedro-miguel-cecato-valoes-b7a473284/">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/pedro-miguel-cecato-valoes-b7a473284/">Pedro Miguel Cecato Valões</a> (linkedin)
 </p>
 
 ##
