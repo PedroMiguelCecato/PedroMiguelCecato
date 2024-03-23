@@ -1,14 +1,15 @@
 ## Olá! Sou Pedro Cecato
 <p>
-  - 📚 Cursando Ciência de Dados e AI - UFPB - 2/8
+  &emsp;&emsp;- 📚 Cursando Ciência de Dados e AI - UFPB - 2/8
   <br>
-  - ✏️ Monitor de Introdução a Programação (em Python) 2023.2/2024.1 - UFPB
+  &emsp;&emsp;- ✏️ Monitor de Introdução a Programação (em Python) 2023.2/2024.1 - UFPB
   <br>
-  - 🧠 Estudando e aprimorando Python e C
+  &emsp;&emsp;- 🧠 Estudando e aprimorando Python e C
   <br>
-  - 📩 pedro.cecato@academico.ufpb.br
+  &emsp;&emsp;- 📩 pedro.cecato@academico.ufpb.br
 <\p>
-  
+<br>
+
 ##
 <div>
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
