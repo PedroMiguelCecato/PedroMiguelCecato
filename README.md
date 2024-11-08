@@ -1,6 +1,6 @@
 ## Olá! Sou Pedro Cecato
 <p>
-  &emsp;&emsp;- 📚 Cursando Ciência de Dados e AI - UFPB - 2/8
+  &emsp;&emsp;- 📚 Cursando Ciência de Dados e AI - UFPB - 4/8
   <br>
   &emsp;&emsp;- ✏️ Monitor de Introdução a Programação (em Python) 2023.2/2024.1 - UFPB
   <br>
