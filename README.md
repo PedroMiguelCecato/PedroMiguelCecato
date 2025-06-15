@@ -8,7 +8,7 @@
 </p>
 
 ---
-### 🔗 Contatos
+### 📱 Redes sociais
 <div><br> 
   <a href="https://www.instagram.com/pedro.cecato/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -16,10 +16,6 @@
 
   <a href="https://www.linkedin.com/in/pedro-miguel-cecato-valoes-b7a473284/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:pedro.cecato@academico.ufpb.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
