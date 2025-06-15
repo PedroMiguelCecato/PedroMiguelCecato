@@ -1,8 +1,8 @@
-## Olá! Sou Pedro Cecato
+# Pedro Cecato
 <p>
   &emsp;&emsp;- 📚 Cursando Ciência de Dados e IA - UFPB - 5°
   <br>
-  &emsp;&emsp;- 🧠 Estudando e aprimorando constantemente
+  &emsp;&emsp;- 🧠 Estudando constantemente, motivado pela vontade de evoluir pessoal e profissionalmente.
   <br>
   &emsp;&emsp;- 📩 pedro.cecato@academico.ufpb.br
 </p>
@@ -20,3 +20,17 @@
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <div>
+
+<br>
+
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlimmsantos&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<br/>
+<div><br> 
+  <a href="https://instagram.com/carlosfreitss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carlosvit26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
