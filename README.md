@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Pedro Cecato
 <p>
-  &emsp;&emsp;- 📚 Cursando Ciência de Dados e IA - UFPB - 5°
+  &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA - UFPB - 5°
   <br>
-  &emsp;&emsp;- 🧠 Estudando constantemente, motivado pela vontade de evoluir pessoal e profissionalmente.
+  &emsp;&emsp;⚈ 🧠 Estudando constantemente, motivado pela vontade de evoluir pessoal, acadêmico e profissionalmente
   <br>
-  &emsp;&emsp;- 📩 pedro.cecato@academico.ufpb.br
+  &emsp;&emsp;⚈ 📩 pedro.cecato@academico.ufpb.br
 </p>
 
 ---
