@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Cecato
 <p>
-  &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA - UFPB - 6°
+  &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
   <br>
   &emsp;&emsp;⚈ ✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
   <br>
