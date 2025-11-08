@@ -1,5 +1,6 @@
 # 👨🏻‍💻 Pedro Cecato
-<p>
+---
+
 &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
 <br>
 &emsp;&emsp;⚈ ✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
@@ -11,7 +12,7 @@
 &emsp;&emsp;⚈ 🧠 Obtenho conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL e programação orientada a objetos.
 <br>
 &emsp;&emsp;⚈ 📩 pedro.cecato@academico.ufpb.br
-</p>
+
 
 ---
 ### 📱 Redes sociais
