@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Pedro Cecato
----
+
 <p>
 📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
 <br>
