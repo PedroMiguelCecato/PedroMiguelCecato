@@ -1,6 +1,12 @@
 # 👨🏻‍💻 Pedro Cecato
 <p>
-  &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA - UFPB - 5°
+  &emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA - UFPB - 6°
+  <br>
+  &emsp;&emsp;⚈ ✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
+  <br>
+  &emsp;&emsp;⚈ 🏫 Participação voluntária no Projeto de Extensão: IA para todos
+  <br>
+  &emsp;&emsp;⚈ 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
   <br>
   &emsp;&emsp;⚈ 🧠 Estudando constantemente, motivado pela vontade de evoluir pessoal, acadêmico e profissionalmente
   <br>
