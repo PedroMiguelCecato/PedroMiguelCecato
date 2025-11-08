@@ -8,7 +8,7 @@
   <br>
   &emsp;&emsp;⚈ 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
   <br>
-  &emsp;&emsp;⚈ 🧠 Estudando constantemente, motivado pela vontade de evoluir pessoal, acadêmico e profissionalmente
+  &emsp;&emsp;⚈ 🧠 Obtenho conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL e programação orientada a objetos.
   <br>
   &emsp;&emsp;⚈ 📩 pedro.cecato@academico.ufpb.br
 </p>
