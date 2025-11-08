@@ -1,18 +1,18 @@
 # 👨🏻‍💻 Pedro Cecato
 ---
-
-&emsp;&emsp;⚈ 📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
-<br>
-&emsp;&emsp;⚈ ✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
-<br>
-&emsp;&emsp;⚈ 🏫 Participação voluntária no Projeto de Extensão: IA para todos
-<br>
-&emsp;&emsp;⚈ 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
-<br>
-&emsp;&emsp;⚈ 🧠 Obtenho conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL e programação orientada a objetos.
-<br>
-&emsp;&emsp;⚈ 📩 pedro.cecato@academico.ufpb.br
-
+<p>
+  &emsp;&emsp;📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
+  <br>
+  &emsp;&emsp;✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
+  <br>
+  &emsp;&emsp;🏫 Participação voluntária no Projeto de Extensão: IA para todos
+  <br>
+  &emsp;&emsp;🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
+  <br>
+  &emsp;&emsp;🧠 Obtenho conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL e programação orientada a objetos.
+  <br>
+  &emsp;&emsp;📩 pedro.cecato@academico.ufpb.br
+</p>
 
 ---
 ### 📱 Redes sociais
