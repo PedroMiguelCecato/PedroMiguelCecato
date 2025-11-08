@@ -9,7 +9,7 @@
 <br>
 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
 <br>
-🧠 Possuo conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL e programação orientada a objetos.
+🧠 Possuo conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL, processamento digital de imagens e programação orientada a objetos.
 <br>
 📩 pedro.cecato@academico.ufpb.br
 </p>
