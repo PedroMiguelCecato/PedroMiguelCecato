@@ -3,9 +3,9 @@
 <p>
 📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
 <br>
-✍️ Monitor da cadeira de Introdução à Programação nos períodos de 2023.2 e 2024.1
+✍️ Monitor da cadeira de Introdução à Programação durante os períodos de 2023.2 e 2024.1
 <br>
-🏫 Participação voluntária no Projeto de Extensão: IA para todos
+🏫 Participação voluntária no Projeto de Extensão "IA para todos", em 2024.1 e 2024.2
 <br>
 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
 <br>
