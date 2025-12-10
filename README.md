@@ -7,9 +7,9 @@
 <br>
 🏫 Participação voluntária no Projeto de Extensão "IA para todos", em 2024.1 e 2024.2
 <br>
-🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
+🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>  
 <br>
-📚 Membro da CortechX, liga de Interação Humano-Computador da UFPB
+📚 Membro da <a href="https://www.instagram.com/cortechx.ufpb/">CortechX</a>, liga de Interação Humano-Computador da UFPB
 <br> 
 🧠 Possuo conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL, processamento digital de imagens e programação orientada a objetos.
 <br>
