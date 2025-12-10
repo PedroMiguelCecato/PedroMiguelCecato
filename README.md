@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Pedro Cecato
 
 <p>
-📚 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
+🎲 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>
 <br>
 ✍️ Monitor da cadeira de Introdução à Programação durante os períodos de 2023.2 e 2024.1
 <br>
@@ -9,6 +9,8 @@
 <br>
 🔎 Atuando em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>
 <br>
+📚 Membro da CortechX, liga de Interação Humano-Computador da UFPB
+<br> 
 🧠 Possuo conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL, processamento digital de imagens e programação orientada a objetos.
 <br>
 📩 pedro.cecato@academico.ufpb.br
