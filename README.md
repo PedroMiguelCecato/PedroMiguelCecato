@@ -11,6 +11,8 @@
 <br>
 📚 Membro da <a href="https://www.instagram.com/cortechx.ufpb/">CortechX</a>, liga de Interação Humano-Computador da UFPB, desde 2025.2
 <br> 
+🦷 Monitor do PET Saúde Digital, GT3: Saúde bucal na atenção básica
+<br> 
 🧠 Possuo conhecimentos em Python de limpeza, análise e visualização de dados, além de técnicas de machine learning. Já tive contato com C, C++, SQL, processamento digital de imagens e programação orientada a objetos.
 <br>
 📩 pedro.cecato@academico.ufpb.br
