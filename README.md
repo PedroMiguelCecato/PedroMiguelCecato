@@ -5,10 +5,10 @@
 <p>
 🎲 Cursando Ciência de Dados e IA na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>, de 2023.1 à 2027.2 (previsão de término)
 <br><br>
-Atualmente exerço as seguintes funções:
-🔎 Pesquisador em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>, desde 2025.1
-📚 Membro da <a href="https://www.instagram.com/cortechx.ufpb/">CortechX</a>, liga de Interação Humano-Computador da UFPB, desde 2025.2
-🦷 Monitor do PET Saúde Digital, GT3 de saúde bucal na atenção básica, desde 2025.2
+Atualmente exerço as seguintes funções: 
+<br>🔎 Pesquisador em Iniciação Científica pelo <a href="http://www.de.ufpb.br/~labteve/">LabTEVE</a>, desde 2025.1 
+<br>📚 Membro da <a href="https://www.instagram.com/cortechx.ufpb/">CortechX</a>, liga de Interação Humano-Computador da UFPB, desde 2025.2 
+<br>🦷 Monitor do PET Saúde Digital, GT3 de saúde bucal na atenção básica, desde 2025.2 
 <br><br>
 Já tive experiência como:
 ✍️ Monitor da cadeira de Introdução à Programação, durante os períodos de 2023.2 e 2024.1
